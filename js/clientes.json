@@ -1,0 +1,34 @@
+[{
+        "id": "1",
+        "name": "Juan Fenizo",
+        "comentario": "Lo mejor de la zona, precio, calidad y la confiaza de la empresa",
+        "email": "Juanfenizo@hotmial.com",
+        "img": "./img/cliente1.jpg"
+
+    },
+
+    {
+        "id": "2",
+        "name": "Marcelo Lato",
+        "comentario": "Eficazia en la logistica y gran atencion",
+        "email": "LatoM@gmail.com",
+        "img": "./img/cliente2.jpg"
+    },
+
+    {
+        "id": "3",
+        "name": "Jorge Hecis",
+        "comentario": "Excelente calidad y precio de los productos comprados",
+        "email": "Jorgehe@hotmail.com",
+        "img": "./img/cliente3.jpg"
+    },
+
+    {
+        "id": "4",
+        "name": "Empresa Vhi",
+        "comentario": "Gran stock de materiales y calidad absoluta",
+        "email": "Vehicularinc@gmail.com",
+        "img": "./img/cliente4.jpg"
+    }
+
+]
